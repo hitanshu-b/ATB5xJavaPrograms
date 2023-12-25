@@ -1,4 +1,4 @@
-package src;
+package src.basics_01;
 
 public class Lab002 {
     public static void main(String[] args) {
@@ -11,6 +11,6 @@ public class Lab002 {
         //interview que : it will not give error as "Index out of range"
 
         short age2 = 129;
-        
+
     }
 }
