@@ -9,12 +9,17 @@ public class Practice001 {
         float f = 2324.235f;
         double d1 = 232432.2321;
         char c = 'a';
-        String s = "Your Name";
+        String s = "Your Name ";
         String name = "Mitchell Starc";
 
         System.out.println("Value of int:"+num1);
         //formatted version
         System.out.printf("Value of int is %d",num1);
+
+        System.out.println();
+
+        System.out.println(s + name);
+
 
     }
 
