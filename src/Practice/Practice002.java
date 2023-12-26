@@ -19,5 +19,14 @@ public class Practice002 {
         //Subtraction
         System.out.println("Sub1: "+ (num3 + num4));
         System.out.println("Sub2: "+ (num3 - num5));
+
+        //mod %
+        System.out.println("Rem1: "+(num3 % num1));
+
+        //multiplication
+        System.out.println("Mul1: "+(num3 * num5));
+
+        //division
+        System.out.println("Div: "+(num2 / num5));
     }
 }
