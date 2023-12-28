@@ -1,0 +1,24 @@
+package src.basics_04;
+
+import java.lang.Math;
+
+public class Lab064 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 10;
+        int b = 45;
+        // Max in two number?
+        // ?
+        // If else
+        // Math
+
+//        System.out.println(Math.max(a,b));
+        System.out.println(Math.max(45.55f,67.78f));
+//        System.out.println(Math.pow(2,3));
+//        System.out.println(Math.min(a,b));
+//        System.out.println(Math.min(a,b));
+
+	}
+
+}
