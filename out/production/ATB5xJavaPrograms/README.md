@@ -4,5 +4,6 @@
   <li>Examples of Literals and Operators</li>
   <li>Diffrent Types of Operators</li>
   <li>Loops and Conditions</li>
+  <li>Arrays > 1D, 2D arrays</li>
   <li>Practice Labs</li>
 </ol>

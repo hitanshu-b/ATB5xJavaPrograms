@@ -21,7 +21,7 @@ public class LeapYear {
 //            System.out.println(year+" is not leap year");
 //        }
 //
-//        sc.close();
+       sc.close();
 	}
 	public static void leapYearCheck(int year) {
 		if((year % 400 == 0)||(year % 100 != 0) && (year % 4 == 0)) {
