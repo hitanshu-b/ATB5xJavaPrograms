@@ -1,4 +1,4 @@
-package src.oops;
+package src.oops.basics;
 
 public class Lab131 {
 	public static void main(String[] args) {
